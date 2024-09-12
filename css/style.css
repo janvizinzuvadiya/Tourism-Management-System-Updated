@@ -276,7 +276,7 @@ ul li{
 }
 .about{
   position: relative;
-  background-color: #8224e0;
+  background-color: #24e0d6;
   top: 118px;
   width: 98.9vw;
   height: 27vh;
@@ -289,7 +289,7 @@ ul li{
   padding: 2px;
   border: 3px solid black;
 }
-.contain .box .name-text{
+.contain .box .name-text{;;;
   position: absolute;
   top: 870px;
   color: white;
