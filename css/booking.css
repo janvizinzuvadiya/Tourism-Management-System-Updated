@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0px;
-	background:url(../images//background//eiffel1.jpg) no-repeat;
+	background:url(../images//background//bookbg1.jpg) no-repeat;
 	height: 90.8vh;
 	background-size: 100% 100%;
 	text-align: center;
@@ -15,7 +15,7 @@ body h1{
 	margin: -2% 27%;
 	padding: 40px;
 }
-.textbox
+.textbox  
 {
 	width:100%;
 	overflow:hidden;

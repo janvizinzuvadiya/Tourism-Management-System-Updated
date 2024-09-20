@@ -1,11 +1,10 @@
 body{
-	background:linear-gradient(to bottom right, #00cc00, #3399ff); 
+	background: url('..//desbgg6.jpg');
 	background-size: 100% 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	margin: 0;
-	padding: 0;
-}
+	padding: 0;}
 .heading{
 	position: relative;
 	text-align: center;
@@ -16,7 +15,7 @@ body{
 .main{
   overflow: hidden;
   position: fixed;
-  background-color: rgba(135,206,250,0.4);
+  background-color: rgba(140, 102, 139, 0.4);
   top: 0;
   width: 100vw;
   height: 8vh;
