@@ -15,11 +15,12 @@ $result = mysqli_query($con,$sql);
 
 if($result)
 {
-	if($firstname=="admin" && $password == "ad123"){
+	if($firstname=="admin" && $password == "ad123")
+	{	
 		header("location:admin.php");
-
-	}
-	else{
+	} 	
+	else
+	{
 		header("location:mainPage.html");
 	}
 }

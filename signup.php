@@ -7,7 +7,7 @@ if (isset($_POST['signup'])) {
   if($que){
     ?>
     <script type="text/javascript">
-      alert("username already taken")
+      alert("username already taken");
     </script>
     <?php
   }
@@ -26,13 +26,13 @@ if (isset($_POST['signup'])) {
     <ul>
       <ul class="list">
         <li class="logo"><a href="mainPage.html"><img src="earth-globe.png" alt="Logo" style="width:36px;height:36px"></a></li>
-        <div class="search">
+        <!-- <div class="search">
             <form method="POST" action="info.php">
               <input type="text" name="search_p" placeholder="Search.." size="50">
           
               <input type="image" name="submit_p" src="search_icon.png" alt="Search image" style="width:22;height:22; margin-left: 35px;">
             </form>
-        </div>
+        </div> -->
       </ul>
       <ul class="list2">
         <li><a href="mainPage.html">Home</a></li>

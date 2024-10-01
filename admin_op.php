@@ -2,8 +2,6 @@
 
 $con=mysqli_connect('localhost:3307','root','','travel');
 
-
-
 if(isset($_POST['de-submit-c']))
 {
 	$id=$_POST['id'];
